@@ -21,4 +21,3 @@ Dự án tách biệt hoàn toàn dành riêng cho ngày Nhà Giáo Việt Nam 2
 ## 🚀 Trải nghiệm ngay
 Mở file `index.html` trực tiếp bằng trình duyệt hoặc thông qua server local tại:
 👉 `http://localhost:8030/`
-# 20-11
